@@ -1,0 +1,2 @@
+# data is bigger than 100MB so ignore it
+data/*
