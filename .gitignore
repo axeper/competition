@@ -1,2 +1,6 @@
 # data is bigger than 100MB so ignore it
-data/*
+raw_data/*
+tidy_data/*
+clean_data/*
+
+.ipynb_checkpoints
